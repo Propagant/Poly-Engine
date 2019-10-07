@@ -1,2 +1,2 @@
 # Poly-Engine
-Universal engine
+Universal engine with integrated visual programming language written in C#
