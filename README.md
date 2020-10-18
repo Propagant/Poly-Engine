@@ -5,6 +5,6 @@ Poly Engine is a universal 2D engine with integrated custom procedural programmi
 
 More about the engine in [Wiki](https://github.com/Propagant/Poly-Engine/wiki)
 
-Quick overview https://www.youtube.com/watch?v=XsFzzHf8yDU
+Quick overview https://www.youtube.com/watch?v=r_yk8OJIOvM&ab_channel=MatejVanco
 
 ![PolyEngine_gif_Global](https://user-images.githubusercontent.com/22862602/96370947-e23ac600-115f-11eb-9e71-f4c12c5a8594.gif)
